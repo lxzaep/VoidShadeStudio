@@ -1,8 +1,7 @@
-<p align="left">
-  <img src="logo.png" width="80">
-</p>
-
-# VoidShadeStudio
+<h1>
+  <img src="logo.png" width="40" alt="VoidShadeStudio Logo">
+  VoidShadeStudio
+</h1>
 
 Professional shader installer for Roblox Studio powered by ReShade technology.
 
