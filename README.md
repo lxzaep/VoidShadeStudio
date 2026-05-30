@@ -11,7 +11,7 @@ VoidShadeStudio provides a streamlined way to install and manage cinematic shade
 ![Platform](https://img.shields.io/badge/Platform-Windows%2010%20%7C%2011-lightgrey)
 ![GPU](https://img.shields.io/badge/GPU-NVIDIA%20%7C%20AMD-green)
 ![ReShade](https://img.shields.io/badge/ReShade-6.7+-orange)
-
+[![Discord](https://img.shields.io/badge/Discord-Join%20Server-5865F2?logo=discord&logoColor=white)](https://discord.gg/jouwserver)
 ---
 
 ## Requirements
